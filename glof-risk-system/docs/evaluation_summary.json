@@ -1,0 +1,43 @@
+{
+  "evaluation_split": "2022-2024 Strict Temporal Holdout (May 2022 Shisper GLOF)",
+  "total_test_days": 1096,
+  "precursor_positive_days": 15,
+  "glacier_velocity_mae_m_day": 0.1972,
+  "models": {
+    "baseline_base_rf": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "pr_auc": 1.0,
+      "roc_auc": 1.0
+    },
+    "baseline_base_xgboost": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "pr_auc": 1.0,
+      "roc_auc": 1.0
+    },
+    "enhanced_tabular_rf": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "pr_auc": 1.0,
+      "roc_auc": 1.0
+    },
+    "enhanced_tabular_xgboost": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "pr_auc": 1.0,
+      "roc_auc": 1.0
+    },
+    "multimodal_fusionflow": {
+      "precision": 0.1442,
+      "recall": 1.0,
+      "f1_score": 0.2521,
+      "pr_auc": 1.0,
+      "roc_auc": 1.0
+    }
+  }
+}

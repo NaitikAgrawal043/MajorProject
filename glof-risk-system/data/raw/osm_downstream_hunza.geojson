@@ -1,0 +1,443 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.5875,
+            36.3115
+          ],
+          [
+            74.5895,
+            36.312
+          ],
+          [
+            74.5915,
+            36.3125
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bridge_hassanabad_01",
+        "name": "Hassanabad Bridge (N-35 KKH)",
+        "bridge": "yes",
+        "highway": "trunk",
+        "criticality": "EXTREME",
+        "historical_damage": "Washed out on 2022-05-07 Shisper GLOF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.52,
+            36.275
+          ],
+          [
+            74.55,
+            36.29
+          ],
+          [
+            74.575,
+            36.305
+          ],
+          [
+            74.5895,
+            36.312
+          ],
+          [
+            74.605,
+            36.318
+          ],
+          [
+            74.63,
+            36.315
+          ],
+          [
+            74.66,
+            36.32
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_kkh_n35",
+        "name": "Karakoram Highway (N-35)",
+        "highway": "trunk",
+        "length_km": 14.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.588,
+            36.312
+          ],
+          [
+            74.585,
+            36.325
+          ],
+          [
+            74.582,
+            36.335
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_access_1",
+        "name": "Hassanabad Valley Access Road",
+        "highway": "secondary",
+        "length_km": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.605,
+            36.318
+          ],
+          [
+            74.615,
+            36.325
+          ],
+          [
+            74.625,
+            36.33
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_access_2",
+        "name": "Aliabad Link Road",
+        "highway": "secondary",
+        "length_km": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.55,
+            36.29
+          ],
+          [
+            74.555,
+            36.298
+          ],
+          [
+            74.56,
+            36.305
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_access_3",
+        "name": "Nasirabad Feeder Road",
+        "highway": "tertiary",
+        "length_km": 2.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.588,
+          36.315
+        ]
+      },
+      "properties": {
+        "name": "Hassanabad Village",
+        "place": "village",
+        "population": 1850,
+        "district": "Hunza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.615,
+          36.312
+        ]
+      },
+      "properties": {
+        "name": "Aliabad Urban Center",
+        "place": "town",
+        "population": 12500,
+        "district": "Hunza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.572,
+          36.302
+        ]
+      },
+      "properties": {
+        "name": "Murtazabad",
+        "place": "village",
+        "population": 3200,
+        "district": "Hunza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.545,
+          36.288
+        ]
+      },
+      "properties": {
+        "name": "Nasirabad",
+        "place": "village",
+        "population": 2900,
+        "district": "Hunza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.602,
+          36.321
+        ]
+      },
+      "properties": {
+        "name": "Dorkhan",
+        "place": "hamlet",
+        "population": 650,
+        "district": "Hunza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.587,
+              36.313
+            ],
+            [
+              74.589,
+              36.313
+            ],
+            [
+              74.589,
+              36.314
+            ],
+            [
+              74.587,
+              36.314
+            ],
+            [
+              74.587,
+              36.313
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bldg_1",
+        "name": "Residential Building 1",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.589,
+              36.314
+            ],
+            [
+              74.591,
+              36.314
+            ],
+            [
+              74.591,
+              36.315
+            ],
+            [
+              74.589,
+              36.315
+            ],
+            [
+              74.589,
+              36.314
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bldg_2",
+        "name": "Residential Building 2",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.586,
+              36.312
+            ],
+            [
+              74.588,
+              36.312
+            ],
+            [
+              74.588,
+              36.313
+            ],
+            [
+              74.586,
+              36.313
+            ],
+            [
+              74.586,
+              36.312
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bldg_3",
+        "name": "Residential Building 3",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.585,
+              36.316
+            ],
+            [
+              74.587,
+              36.316
+            ],
+            [
+              74.587,
+              36.317
+            ],
+            [
+              74.585,
+              36.317
+            ],
+            [
+              74.585,
+              36.316
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bldg_4",
+        "name": "Hassanabad Power House / Mill",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.61,
+              36.31
+            ],
+            [
+              74.612,
+              36.31
+            ],
+            [
+              74.612,
+              36.312
+            ],
+            [
+              74.61,
+              36.312
+            ],
+            [
+              74.61,
+              36.31
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bldg_5",
+        "name": "Residential Building 5",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              74.613,
+              36.312
+            ],
+            [
+              74.615,
+              36.312
+            ],
+            [
+              74.615,
+              36.314
+            ],
+            [
+              74.613,
+              36.314
+            ],
+            [
+              74.613,
+              36.312
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bldg_6",
+        "name": "Residential Building 6",
+        "building": "yes"
+      }
+    }
+  ]
+}
